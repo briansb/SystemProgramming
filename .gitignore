@@ -1,0 +1,14 @@
+**/Debug/
+**/Release/
+**/x64/
+**/pch.cpp
+**/pch.h
+**/.vs/
+**/.vscode/
+**/*.vcxproj.filters
+**/*.vcxproj.user
+**/*.exe
+**/*.o
+**/*.obj
+**/main
+**/*.csv

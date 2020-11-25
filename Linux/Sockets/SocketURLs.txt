@@ -1,0 +1,5 @@
+http://www.linuxhowtos.org/C_C++/socket.htm
+
+https://stackoverflow.com/questions/11255976/sending-files-between-computers-with-c
+
+https://www.geeksforgeeks.org/socket-programming-cc/
